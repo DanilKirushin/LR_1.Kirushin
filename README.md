@@ -27,3 +27,4 @@
 Дайте порівняння цих наборів команд.
 
 ## Джерела
+Подска—[1](https://paulradzkov.com/2014/markdown_cheatsheet/)
