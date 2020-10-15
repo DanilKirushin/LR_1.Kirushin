@@ -45,8 +45,8 @@
 - Більшість елементів керування процесором в RISC є провідними без наявності пам'яті керування. І навпаки, CISC мікрокодується і використовує керуючу пам'ять (ROM), але сучасний CISC також використовує жорстке керування.
 
 ## Джерела
-[1.](https://uk.wikipedia.org/wiki/Reduced_Instruction_Set_Computing)
+[1. Вікіпедия—Reduced Instruction Set Computing](https://uk.wikipedia.org/wiki/Reduced_Instruction_Set_Computing)
 
-[2.](https://ru.wikipedia.org/wiki/CISC)
+[2. Вікіпедия—CISC](https://ru.wikipedia.org/wiki/CISC)
 
-[3.](https://uk.gadget-info.com/difference-between-risc)
+[3. Різниця між RISC і CISC](https://uk.gadget-info.com/difference-between-risc)
