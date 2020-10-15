@@ -28,4 +28,4 @@
 Дайте порівняння цих наборів команд.
 
 ## Джерела
-Под-ка—[1](https://paulradzkov.com/2014/markdown_cheatsheet/)
+Подсказка—[1](https://paulradzkov.com/2014/markdown_cheatsheet/)
