@@ -1,6 +1,6 @@
 # Лабораторна робота №1
 ## Тема: Дослідження команд RISC та CISC
-![alt text](https://www.howtogeek.com/thumbcache/2/200/a87cc0001c770a4c7e898c200564280e/wp-content/uploads/2018/10/cpu_lede.png)
+![alt text](https://gadget-info.com/img/difference-between/239/difference-between-risc.jpg)
 ## Мета: дослідити набори команд RISC та CISC, з’ясувати основні
 ## Хід роботи
 1. Вивчить теоретично набори команд RISC, CISC (обов’язково знаходити додаткові джерела інформації)
