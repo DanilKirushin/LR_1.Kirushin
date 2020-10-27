@@ -17,7 +17,7 @@
 |5|Дуже великі масштабні інтегровані пристро|>100млн.||||
 
 ## Діаграма.
-
+![alt text](https://sites.google.com/site/komputeripatogopokolinna/_/rsrc/1510761958383/home/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 ## Висновки.
 
 ## Контрольні питання
@@ -34,6 +34,8 @@
 [2.](https://cherto4ka.xyz/posibniki/history/page12.html)
 
 [3.](https://sites.google.com/site/vseproeomikomputera/home/pokolinna-eom)
+
+[4.](https://sites.google.com/site/komputeripatogopokolinna/)
 
 
 
